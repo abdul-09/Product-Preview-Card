@@ -26,9 +26,8 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
-
-![](./Pictures/Screenshot(5).png)
-![](./Pictures/Screenshot(7).png)
+![Screenshot (5)](https://user-images.githubusercontent.com/114946911/197596405-83ddaf35-025c-458e-a9c2-f935a78bf07c.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/114946911/197596467-6ba01cfd-4a6e-4171-be1c-8eb1f4ace1ec.png)
 
 
 ### Links
@@ -51,22 +50,6 @@ Users should be able to:
 ### What I learned
 
 You can display divs alongside each other by setting display to flex and also setting width of each div to have 50% width
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
 
 ### Continued development
